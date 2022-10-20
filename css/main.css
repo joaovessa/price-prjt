@@ -1,0 +1,13 @@
+.superior{
+padding-inline: 1.5rem;
+padding-block: 2rem;
+border-radius: 5px 5px 0 0;
+background: white;
+}
+.superior p{
+    font-weight: 700;
+    line-height: 1.25rem;
+    color: var(--Brigh-Yellow);
+    margin-bottom: 1rem;
+
+}
